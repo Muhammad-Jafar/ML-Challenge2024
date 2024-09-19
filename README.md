@@ -8,7 +8,7 @@ This repository provided ML model for mental health classification.
 ## Repository
 to clone this repo, copy link below 
 ```
-mldfsfsf.fsfsdfsfsfsfdf
+https://github.com/Muhammad-Jafar/ML-Challenge2024.git
 ```
 ## Team
 - Jafar
